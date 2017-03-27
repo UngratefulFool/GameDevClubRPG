@@ -1,4 +1,0 @@
-build.commands=org.eclipse.jdt.core.javabuilder
-eclipse.preferences.version=1
-linked.resources=assets
-natures=org.eclipse.jdt.core.javanature
