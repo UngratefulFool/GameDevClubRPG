@@ -14,6 +14,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	public void create () {
 		batch = new SpriteBatch();
 		img = new Texture("assets/badlogic.jpg");
+		System.out.println("This is Daniel simply testing the code and seeing if my message is sent over the power of the internet.");
 	}
 
 	@Override
